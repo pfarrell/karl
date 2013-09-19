@@ -20,9 +20,9 @@ I am ready to have crappier software that doesn't make me an accomplice to the l
 * remind you how beautiful life is
 
 # Karl won't...
-* every let you down
 * be a double agent
 * laugh at you
+* ever let you down
 
 
 # Phase 1 (In which discover the depth of our ignorance)
