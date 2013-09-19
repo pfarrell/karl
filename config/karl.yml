@@ -1,0 +1,8 @@
+development:
+  gmail: 
+    username: patf.karl.test@gmail.com
+    password: pass@123!!
+    xoauth:
+      consumer_key:
+      consumer_secret:
+
